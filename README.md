@@ -1,3 +1,5 @@
+NOTE : Code of the application is in master branch. 
+
 This code represents a simple Spring Boot application for managing a music library. Let's break down each file and its purpose:
 
 1. Song.java
