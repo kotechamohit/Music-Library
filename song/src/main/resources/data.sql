@@ -4,4 +4,4 @@ create table if not exists PLAYLIST (
    lyricist varchar(255),
    singer varchar(255),
    musicdirector varchar(255)
- );
+ ):
